@@ -1,9 +1,9 @@
 # reaction-timer-mini
-This is just a simple Vue Application that is based on Reaction Timer. I made this to test out Vue 3 CLI and as practice. If someone
+This is just a simple Vue Application that is based on a Reaction Timer. I made this to test out Vue 3 CLI as practice. If someone
 finds this and a way to improve it or add more features, please feel free to fork it over and put in a Pull Request (PR). Overtime,
 I may add more to it.
 
-For more information on Vue 3, refer to [official docs](https://v3.vuejs.org/guide/introduction.html).
+For more information on Vue 3, refer to the [official docs](https://v3.vuejs.org/guide/introduction.html).
 
 ## INSTRUCTIONS
 1. Simply press "Play" and be alert to click a button that will show up in X amount of time.

@@ -17,7 +17,6 @@ export default {
   height: 10rem;
   border-radius: 50%;
   border: solid #000 5px;
-  background-color: crimson;
   color: #fff;
   text-align: center;
   text-transform: uppercase;
