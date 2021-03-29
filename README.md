@@ -1,6 +1,12 @@
 # reaction-timer-mini
-<<<<<<< HEAD
+This is just a simple Vue Application that is based on Reaction timer. I made this to test out Vue 3 CLI and as practice. If someone
+finds this and a way to improve it or add more features, please feel free to fork it over and put in a pull request (PR). Overtime,
+I may add more to it.
 
+#####INSTRUCTIONS#####
+1. Simply press "Play" and be alert to click a button that will show up in X amount of time.
+2. As this tests your reaction, there is no set amount of time.
+3. Once you click the button, you will see how long it took for you to react.
 ## Project setup
 ```
 npm install
@@ -18,6 +24,3 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-A reaction timer made in Vue.
->>>>>>> b0f44315bd6fa57df38bc10626302bb6fc8a7539
